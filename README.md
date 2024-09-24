@@ -23,9 +23,9 @@
 | TypeScript  | ★★★★★ | Essencial     |
 | Node.js     | ★★★★★ | Essencial     |
 | GitHub      | ★★★★☆ | Avançado      |
-| Docker      | ★★★★☆ | Avançado      |
-| LLM Ops     | ★★★★☆ | Avançado      |
 | Inglês      | ★★★★☆ | Avançado      |
+| LLM Ops     | ★★★☆☆ | Intermediário |
+| Docker      | ★★★☆☆ | Intermediário |
 | Azure Cloud | ★★★☆☆ | Intermediário |
 | PostgreSQL  | ★★★☆☆ | Intermediário |
 
