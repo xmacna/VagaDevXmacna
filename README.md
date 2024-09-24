@@ -68,9 +68,14 @@ Para se candidatar a esta vaga, por favor, envie as seguintes informações:
 - Link para seu perfil no LinkedIn
 - Link para seu perfil no GitHub
 
-Você pode nos contatar através de:
+<div align="center">
+  <a href="https://www.linkedin.com/jobs/view/4032248932" style="display: inline-block; background-color: #0077B5; color: white; padding: 15px 25px; text-align: center; text-decoration: none; font-size: 24px; margin: 20px 0; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    🚀 CANDIDATE-SE AGORA 🚀
+  </a>
+</div>
 
-- 🔗 Vaga no LinkedIn: [https://www.linkedin.com/jobs/view/4032248932](https://www.linkedin.com/jobs/view/4032248932)
+Você também pode nos contatar através de:
+
 - 📧 Email: recrutamento@xmacna.ai
 
 ---
