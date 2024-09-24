@@ -82,7 +82,7 @@ Você pode nos contatar através de:
 [![Website](https://img.shields.io/badge/xmacna.ai-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xmacna.ai)
 [![Twitter](https://img.shields.io/badge/@xmacna-1DA1F2?style=for-the-badge&logo=x)](https://x.com/xmacna)
 [![Instagram](https://img.shields.io/badge/@xmacna-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xmacna/)
-[![LinkedIn](https://img.shields.io/badge/Xmacna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/xmacna)
+[![LinkedIn](https://img.shields.io/badge/\/Xmacna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/xmacna)
 
 </div>
 
