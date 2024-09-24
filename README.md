@@ -70,7 +70,7 @@ Para se candidatar a esta vaga, por favor, envie as seguintes informações:
 
 Você pode nos contatar através de:
 
-- 🔗 Vaga no LinkedIn: https://www.linkedin.com/jobs/view/4032248932
+- 🔗 Vaga no LinkedIn: [https://www.linkedin.com/jobs/view/4032248932](https://www.linkedin.com/jobs/view/4032248932)
 - 📧 Email: recrutamento@xmacna.ai
 
 ---
