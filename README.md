@@ -70,8 +70,9 @@ Para se candidatar a esta vaga, por favor, envie as seguintes informações:
 
 Você pode nos contatar através de:
 
--   📧 Email: wanderson@xmacna.ai
--   🔗 LinkedIn: [Link para a vaga no LinkedIn]
+-   🔗 Vaga no LinkedIn: [Link para a vaga no LinkedIn]
+-   📧 Email: recrutamento@xmacna.ai
+
 
 ---
 
