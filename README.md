@@ -68,11 +68,13 @@ Para se candidatar a esta vaga, por favor, envie as seguintes informações:
 - Link para seu perfil no LinkedIn
 - Link para seu perfil no GitHub
 
+
 <div align="center">
-  <a href="https://www.linkedin.com/jobs/view/4032248932" style="display: inline-block; background-color: #0077B5; color: white; padding: 15px 25px; text-align: center; text-decoration: none; font-size: 24px; margin: 20px 0; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    🚀 CANDIDATE-SE AGORA 🚀
+    <a href="https://www.linkedin.com/jobs/view/4032248932">
+    <img src="https://img.shields.io/badge/🚀_CANDIDATE--SE_AGORA_🚀-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="Candidate-se Agora" width="300">
   </a>
 </div>
+
 
 Você também pode nos contatar através de:
 
