@@ -4,7 +4,7 @@
 
 **Salário:**
 
-- PJ ou CLT (a Combinar)
+- A Combinar
 
 **Benefícios:**
 
